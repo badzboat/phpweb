@@ -11,7 +11,7 @@
   <p> </p>
   <p> </p>
   <p> </p>
-  <p><img src='ocp.jpg' style='position:fixed;top:0px;left:0px;width:80%;height:80%;z-index:-1;'></p>
+  <p><img src='ocp.jpg' style='position:fixed;top:50px;left:0px;width:80%;height:80%;z-index:-1;'></p>
   <p> </p>
 </body>
 </html>
